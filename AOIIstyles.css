@@ -1,0 +1,20 @@
+body { background: maroon;
+	   color: white;
+	   font-size: 15pt;
+	   font-family:"optima", serif; }
+	   
+h1 { font-size: 300%;
+	 font-family:"georgia", serif;
+	 font-weight: bold; }
+	 
+NAV li { display: inline-block;
+		 color: lightgray;
+		 padding: 5px;
+		 margin: 10px;
+		 border: 2px solid black }
+		 
+		 
+a {color: lightgray;
+   text-decoration: none }
+a:hover { color: white }
+
